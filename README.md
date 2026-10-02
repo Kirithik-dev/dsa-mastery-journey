@@ -1,6 +1,6 @@
 # 🚀 DSA Mastery Journey
 
-Welcome to my 4-month intensive Data Structures and Algorithms journey! This repository documents my path to mastering DSA in Python, with the goal of cracking top-tier product-based companies. 
+Welcome to my 4-month intensive Data Structures and Algorithms journey! This repository documents my path to mastering DSA in Python
 
 Instead of just blindly solving LeetCode, I use a **Project-Based Learning** approach to build deep, practical intuition for every algorithm.
 
